@@ -1,0 +1,17 @@
+/.cache/
+/.zsh_history
+/.z
+/.z.*
+/.zcompdump-Compaq-5.8
+/.wget-hsts
+/.viminfo
+/.bash_history
+# Ignore .oh-my-zsh subdirectories maintained from oh-my-zsh repository
+/.oh-my-zsh/
+# Ignore .vim/plugged subdirectories maintained by vim-plug PlugInstall, etc.
+/.vim/plugged/NERDTree/
+/.vim/plugged/nerdtree-git-plugin/
+/.vim/plugged/vim-airline/
+/.vim/plugged/vim-sensible/
+/projects
+.gitconfig_local
